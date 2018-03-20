@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#7684e0</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colornew">#da0117</color>
+    <color name="colornewred">#f3192f</color>
+    <color name="blacks">#0b0b0b</color>
+    <color name="purples">#5d0c60</color>
+    <color name="pur">#d7d0d0</color>
+    <color name="mycolor2">#f8f7c265</color>
+    <color name="que">#9e213e</color>
+    <color name="my_color">#e7486d</color>
+</resources>
